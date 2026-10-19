@@ -12,7 +12,7 @@
 
 ```text
 Установи навык creatorix Brand Studio из этой папки GitHub:
-https://github.com/egorfuks24-cloud/creatorix-brand-studio/tree/main/skills/creatorix-brand-studio
+https://github.com/creatorix-studio/creatorix-brand-studio/tree/main/skills/creatorix-brand-studio
 После установки используй его для моего бренда. Уточни недостающие
 данные и покажи три цельных брендборда с аватарками и вариантами знака.
 ```
@@ -23,7 +23,7 @@ https://github.com/egorfuks24-cloud/creatorix-brand-studio/tree/main/skills/crea
 
 ## Самый простой запуск
 
-1. Скачайте [BRAND-STUDIO.md](https://raw.githubusercontent.com/egorfuks24-cloud/creatorix-brand-studio/main/BRAND-STUDIO.md).
+1. Скачайте [BRAND-STUDIO.md](https://raw.githubusercontent.com/creatorix-studio/creatorix-brand-studio/main/BRAND-STUDIO.md).
 2. Прикрепите файл к чату нейросети с генерацией изображений. Можно вставить текст целиком.
 3. Отправьте запрос ниже, заменив данные бизнеса.
 
@@ -46,7 +46,7 @@ https://github.com/egorfuks24-cloud/creatorix-brand-studio/tree/main/skills/crea
 
 ## Установка как навыка
 
-Скачайте **creatorix-brand-studio-skill.zip** в [релизе v1.0.0](https://github.com/egorfuks24-cloud/creatorix-brand-studio/releases/tag/v1.0.0).
+Скачайте **creatorix-brand-studio-skill.zip** в [релизе v1.0.0](https://github.com/creatorix-studio/creatorix-brand-studio/releases/tag/v1.0.0).
 
 - **Codex:** распакуйте папку `creatorix-brand-studio` в `~/.codex/skills/` и используйте предусмотренное приложением обновление списка навыков. Вызов: `$creatorix-brand-studio`.
 - **Агент с поддержкой SKILL.md:** используйте его предусмотренный способ подключения папки или ZIP навыка.
