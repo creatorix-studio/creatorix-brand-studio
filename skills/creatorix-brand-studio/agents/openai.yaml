@@ -1,0 +1,4 @@
+interface:
+  display_name: "creatorix Brand Studio"
+  short_description: "Брендборды, аватарки и варианты логотипа вместе"
+  default_prompt: "Используй $creatorix-brand-studio: создай три цельных брендборда для моего бизнеса с аватаркой, носителями и вариантами знака."
